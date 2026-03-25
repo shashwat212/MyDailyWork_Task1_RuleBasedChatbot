@@ -1,4 +1,4 @@
-# 🤖 MyDailyWork_Task1_RuleBasedChatbot  
+# 🤖 RuleBasedChatbot  
 
 A **simple rule-based chatbot** built using **Python** that responds to user queries such as greetings, time, date, Python basics, and more.  
 
@@ -48,7 +48,7 @@ It showcases basic **Natural Language Processing (NLP)** concepts and simple con
 
 ## 📂 Project Structure  
 ```
-MyDailyWork_Task1_RuleBasedChatbot/
+MyRuleBasedChatbot/
 │── chatbot.py        # Main chatbot script
 │── README.md         # Project documentation
 ```
