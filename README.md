@@ -36,7 +36,7 @@ It showcases basic **Natural Language Processing (NLP)** concepts and simple con
 
 2. **Navigate to the project folder**  
    ```bash
-   cd MyDailyWork_Task1_RuleBasedChatbot
+   cd MyRuleBasedChatbot
    ```
 
 3. **Run the chatbot**  
